@@ -1,5 +1,4 @@
- 
-$(document).ready(function () {
+ $(document).ready(function () {
 
     //Setting the variable for day and time format
 
